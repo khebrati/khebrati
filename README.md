@@ -7,8 +7,6 @@ I'm a student at KNTU University who loves everything about computer science and
 - C#
 - .NET
 - WPF
-- HTML
-- CSS
 - SQL Server
 
 ## Interests
