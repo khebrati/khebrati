@@ -1,18 +1,17 @@
 # Hi there 👋
 
-I'm a student at KNTU University who loves everything about computer science and software. I specialize in developing apps with .NET and C#. 
+I'm a student at KNTU University who loves everything about computer science and software. I specialize in developing multi-platform apps with kotlin
 
 ## Skills
 
-- C#
-- .NET
-- WPF
-- SQL Server
+- Database design and development
+- Kotlin programming language
+- Windows development with jvm
+- Android development
 
 ## Interests
 
-- Windows development
-- Web Development
+- ComputerScience
 - Software Engineering
 
 ## Contact
